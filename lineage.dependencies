@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SmallPP420/WIP-vendor_hmd_WSP_sprout",
+    "target_path": "vendor/hmd/WSP_sprout",
+    "branch":      "master"
+  },
+    {
+    "remote":      "github",
+    "repository":  "CANALLA/android_hardware_mediatek",
+    "target_path": "hardware/mediatek",
+    "branch":      "lineage-17.1"
+  }
+]
