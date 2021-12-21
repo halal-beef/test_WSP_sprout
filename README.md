@@ -1,2 +1,2 @@
-# android_device_OUKITEL_K3_Pro
-Android Device Specific Configuration for OUKITEL K3 Pro
+# android_device_Nokia_WSP_sprout
+Android Device Specific Configuration for Nokia 2.2
