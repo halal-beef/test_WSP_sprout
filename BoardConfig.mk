@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/Nokia/WSP_sprout
+DEVICE_PATH := device/hmd/WSP_sprout
 
 BOARD_VENDOR := Nokia
 
