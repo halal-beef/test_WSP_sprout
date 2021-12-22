@@ -1,0 +1,4 @@
+/dev/block/platform/bootdevice/by-name/system   /         ext4 ro wait,recoveryonly,slotselect
+/dev/block/platform/bootdevice/by-name/vendor   /vendor   ext4 ro wait,recoveryonly,slotselect
+/dev/block/platform/bootdevice/by-name/userdata /data     ext4 noatime,slotselect,nosuid,nodev,noauto_da_alloc,barrier=0,errors=panic wait,check,reservedsize=128M,formattable,resize,forceencrypt=/dev/block/platform/bootdevice/by-name/metadata,
+/dev/block/platform/bootdevice/by-name/boot     /boot     emmc defaults defaults,slotselect
